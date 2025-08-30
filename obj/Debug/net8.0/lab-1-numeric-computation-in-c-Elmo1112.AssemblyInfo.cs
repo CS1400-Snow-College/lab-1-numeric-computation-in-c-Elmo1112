@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-Elmo1112")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61860d026eb6ebaae98cd66d71f267c576390270")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014bcc570e6e00155f2d5cd84ddafc1c3db84ab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-Elmo1112")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-Elmo1112")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
