@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int max = int.MaxValue;
-int min = int.MinValue;
-Console.WriteLine($"The range of integers is {min} to {max}");
+double a = 5;
+double b = 4;
+double c = 2;
+double d = (a + b) / c;
+Console.WriteLine(d);
